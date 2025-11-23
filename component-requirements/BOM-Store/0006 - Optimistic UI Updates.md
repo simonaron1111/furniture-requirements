@@ -1,6 +1,6 @@
 # Component Req - 0006 - Optimistic UI Updates
 ## Reference: 
-[User Req - 0006 - Manual BOM Entries](../../user-requirements/0006 - Manual BOM Entries.md)
+[User Req - 0006 - Manual BOM Entries](./../../user-requirements/0006%20-%20Manual%20BOM%20Entries.md)
 
 ## Requirement
 - Given the user has submitted the "Add Custom Item" form in the UI.

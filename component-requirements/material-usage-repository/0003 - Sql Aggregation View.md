@@ -1,6 +1,6 @@
 # Component Req - 0003 - SQL Aggregation View
 ## Reference: 
-[User Req - 0003 - Material Surface Area Aggregation](../../user-requirements/0003 - Material Surface Area Aggregation.md)
+[User Req - 0003 - Material Surface Area Aggregation](./../../user-requirements/0003%20-%20Material%20Surface%20Area%20Aggregation.md)
 ## Requirement
 - Given the bom_line_items table is populated with individual cut pieces for a project.
 - When the application requests the material summary.

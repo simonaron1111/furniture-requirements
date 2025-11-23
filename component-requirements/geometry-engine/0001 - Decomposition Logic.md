@@ -1,6 +1,6 @@
 # Component: Backend Domain Layer (GeometryEngine)
 ## Reference: 
-[User Req - 0001 - Automatic Panel Dimension Calculation](../../user-requirements/0001 - Automatic Panel Dimension Calculation.md)
+[User Req - 0001 - Automatic Panel Dimension Calculation](./../../user-requirements/0001%20-%20Automatic%20Panel%20Dimension%20Calculation.md)
 ## Requirement
 - Given a generic FurnitureBox entity defined by vector dimensions $(x, y, z)$ and a MaterialStrategy indicating construction method (e.g., "Sides-Surround-Top").
 - When the decomposeToParts() method is invoked.

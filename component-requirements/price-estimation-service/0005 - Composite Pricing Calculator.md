@@ -1,6 +1,6 @@
 # Component Req - 0005 - Composite Pricing Calculator
 ## Reference: 
-[User Req - 0005 - Total Cost Estimation](../../user-requirements/0005 - Total Cost Estimation.md)
+[User Req - 0005 - Total Cost Estimation](./../../user-requirements/0005%20-%20Total%20Cost%20Estimation.md)
 ## Requirement
 - Given a populated BOM object containing both Panel items (measured in area) and Hardware items (measured in units).
 - When the calculateProjectCost() method is triggered.
